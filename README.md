@@ -31,7 +31,7 @@ Deploying Devices:  <br/>
 <img src="https://i.imgur.com/NwtcoHb.png" height="80%" width="80%" alt="Building Network Lab"/>
 <br />
 <br />
-Investigate Devices in a Wiring Closet:  <br/>
+Activity 1: Investigate Devices in a Wiring Closet:  <br/>
 - Servers, switches, routers, access points, PC, laptop, firewall, cables, 
 <img src="https://i.imgur.com/foIXuX2.png" height="80%" width="80%" alt="Building Network Lab"/>
 <br />
@@ -54,6 +54,28 @@ Configured the hostname on the backup router using command line:  <br/>
 <img src="https://i.imgur.com/DyQFeTK.png" height="80%" width="80%" alt="Building Network Lab"/>
 <br />
 <br />
-Summary of activity:  <br/>
+Summary of Activity:  <br/>
 <img src="https://i.imgur.com/XapxsOM.png" height="80%" width="80%" alt="Building Network Lab"/>
 <br />
+<br />
+Activity 2: Create a Simple Network:  <br/>
+- Build the network by adding the devices to the workspace. <br/>
+- Change the display names of the devices on the network. <br/>
+- Add physical cabling between devices. <br/>
+<img src="https://i.imgur.com/7wwyBhU.png" height="80%" width="80%" alt="Building Network Lab"/>
+<br />
+<br />
+Configure the PC:  <br/>
+<img src="https://i.imgur.com/o2Bw8LM.png" height="80%" width="80%" alt="Building Network Lab"/>
+<br />
+<br />
+Configure the Laptop:  <br/>
+<img src="https://i.imgur.com/5S92Kk0.png" height="80%" width="80%" alt="Building Network Lab"/>
+<br />
+  
+<h2>Lab Summary</h2>
+Module 1: <br/>
+I explored networking without having to purchase equiptment or disrupt an existing network. I also was able to simulate an office/enterprise network and visualized the topology of the network, as well as its physical components. There were several videos in this module that helped advance my networking knowledge and my skills using the features within Packet Tracer (ex. configuring devices using command line). <br/>
+<br/>
+Module 2: <br/>
+I was able to build my own network in logical mode and visualize what it looks like from a topological perspective. I then configured the end devices and verified connectivity using physical mode, just a networking professional would do in the field. <br/>

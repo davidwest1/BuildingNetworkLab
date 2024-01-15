@@ -1,7 +1,7 @@
 <h1>Building a Network with Cisco Packet Tracer Lab</h1>
 
 <h2>Description</h2>
-This project practices network configuration and troubleshooting skills by simulating networks without the need for physical equiptment. I was able create my own network and watch data packets flow across the network. Internet of Things (IoT) and Cybersecurity skills were also practiced in this lab along with the use of Cisco Packet Tracer tool.
+This project practices network configuration and troubleshooting skills by simulating networks without the need for physical equipment. I was able create my own network and configure devices. Internet of Things (IoT) and Cybersecurity skills were also practiced in this lab, along with the use of Cisco Packet Tracer tool.
 <br />
 
 
@@ -10,7 +10,7 @@ This project practices network configuration and troubleshooting skills by simul
 - <b>Cisco Packet Tracer</b>
 - <b>Cisco Internetwork Operating System (IOS)</b> 
 
-<h2>Program walk-through:</h2>
+<h2>Program Walk-Through:</h2>
 
 <p align="center">
 Installing Cisco Packet Tracer:  <br/>
@@ -22,33 +22,32 @@ Become Familiar With the Application's User Interface:  <br/>
 <br />
 <img src="https://i.imgur.com/LtQ8cyH.png" height="80%" width="80%" alt="Building Network Lab"/>
 <br />
-<br />
 Deploying Devices:  <br/>
-- Example of a simple home network with a home router, laptop and gaming PC
+- Example of a simple home network with a home router, laptop and gaming PC.
 <img src="https://i.imgur.com/I7fagyW.png" height="80%" width="80%" alt="Building Network Lab"/>
 <br />
-- The laptop's wired card needed to be changed to a wireless interface in order to connect to to the network
+- The laptop's wired card needed to be changed to a wireless interface in order to connect to the network.
 <img src="https://i.imgur.com/NwtcoHb.png" height="80%" width="80%" alt="Building Network Lab"/>
 <br />
 <br />
 Activity 1: Investigate Devices in a Wiring Closet:  <br/>
-- Servers, switches, routers, access points, PC, laptop, firewall, cables, 
+- Servers, switches, routers, access points, PC, laptop, firewall, cables. 
 <img src="https://i.imgur.com/foIXuX2.png" height="80%" width="80%" alt="Building Network Lab"/>
 <br />
 <br />
-Connect the PC to a switch via ethernet:  <br/>
+Connected the PC to a Switch via Ethernet:  <br/>
 <img src="https://i.imgur.com/PvXO4JB.png" height="80%" width="80%" alt="Building Network Lab"/>
 <br />
 <br />
-Connect the PC to a router using a console cable:  <br/>
+Connected the PC to a Router Using a Console Cable:  <br/>
 <img src="https://i.imgur.com/lbEDkc7.png" height="80%" width="80%" alt="Building Network Lab"/>
 <br />
 <br />
-Install a backup router in the rack and connect the laptop to it via USB:  <br/>
+Installed a Backup Router in the Rack and Connected the Laptop to it via USB:  <br/>
 <img src="https://i.imgur.com/BwWiAsu.png" height="80%" width="80%" alt="Building Network Lab"/>
 <br />
 <br />
-Configured the hostname on the backup router using command line:  <br/>
+Configured the Hostname on the Backup Router using Command Line:  <br/>
 <img src="https://i.imgur.com/lPQYTdu.png" height="80%" width="80%" alt="Building Network Lab"/>
 <br />
 <img src="https://i.imgur.com/DyQFeTK.png" height="80%" width="80%" alt="Building Network Lab"/>
@@ -65,17 +64,17 @@ Activity 2: Create a Simple Network:  <br/>
 <img src="https://i.imgur.com/7wwyBhU.png" height="80%" width="80%" alt="Building Network Lab"/>
 <br />
 <br />
-Configure the PC:  <br/>
+Configured the PC:  <br/>
 <img src="https://i.imgur.com/o2Bw8LM.png" height="80%" width="80%" alt="Building Network Lab"/>
 <br />
 <br />
-Configure the Laptop:  <br/>
+Configured the Laptop:  <br/>
 <img src="https://i.imgur.com/5S92Kk0.png" height="80%" width="80%" alt="Building Network Lab"/>
 <br />
   
 <h2>Lab Summary</h2>
 Module 1: <br/>
-I explored networking without having to purchase equiptment or disrupt an existing network. I also was able to simulate an office/enterprise network and visualized the topology of the network, as well as its physical components. There were several videos in this module that helped advance my networking knowledge and my skills using the features within Packet Tracer (ex. configuring devices using command line). <br/>
+I explored networking without having to purchase equipment or disrupt an existing network. I also simulated an office/enterprise network and visualized the topology of the network, as well as its physical components. There were several videos in this module that helped advance my networking knowledge and my skills using the features within Packet Tracer (ex. configuring devices using command line). <br/>
 <br/>
 Module 2: <br/>
-I was able to build my own network in logical mode and visualize what it looks like from a topological perspective. I then configured the end devices and verified connectivity using physical mode, just a networking professional would do in the field. <br/>
+I was able to build my own network in logical mode and visualize what it looks like from a topological perspective. I then configured the end devices and verified connectivity using physical mode, just as a networking professional would do in the field. <br/>
